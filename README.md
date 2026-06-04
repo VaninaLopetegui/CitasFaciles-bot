@@ -1,4 +1,4 @@
-# CitasFáciles Bot 🤖
+# Citas Fáciles Bot 🤖
 
 Chatbot con inteligencia artificial para agendar citas en Google Calendar.
 Funciona en **Telegram** y **WhatsApp**.
